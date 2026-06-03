@@ -1,0 +1,13 @@
+# Medical Imaging and Laboratory Diagnostics Report
+
+### Medical Imaging Modalities
+
+* **X-Rays:** This quick, non-invasive imaging technique uses minor amounts of radiation to capture images of the inside of the body. It is highly effective for identifying bone fractures, joint dislocations, and infections like pneumonia. Because dense structures block the radiation, bones appear bright white on the final film.
+* **CT Scan (Computed Tomography):** A CT scan combines a series of X-ray images taken from different angles around your body to create cross-sectional views of bones, blood vessels, and soft tissues. It provides much greater detail than a standard X-ray, making it ideal for detecting internal injuries, tumors, or complex diseases. Doctors frequently use these detailed slices to quickly evaluate patients in emergency situations.
+* **MRI (Magnetic Resonance Imaging):** MRI utilizes powerful magnets and radio waves to generate highly detailed, three-dimensional images of organs and soft tissues without using harmful radiation. It is exceptionally useful for examining the brain, spinal cord, muscles, and ligaments where fine structural detail is required. The process requires patients to lie still inside a large tube-like scanner while the images are captured.
+* **Sonography (Ultrasound):** Sonography relies on high-frequency sound waves to transmit real-time images of internal organs, blood vessels, and tissue structures onto a monitor. It is completely radiation-free and safe, which is why it is the standard choice for monitoring fetal development during pregnancy and inspecting the abdomen. The technician moves a handheld probe over the skin to capture the live movement and flow within the body.
+
+### Medical Reports & Laboratory Tests
+
+* **Blood Tests:** These laboratory assessments evaluate a sample of your blood to check overall health, analyze organ function, and detect signs of infection or disease. They measure crucial biomarkers such as blood sugar, cholesterol levels, and various cell counts to give doctors a chemical snapshot of what is happening inside your body. The results serve as a fundamental tool for both routine checkups and complex medical diagnoses.
+* **Histopathology:** Histopathology involves the microscopic examination of biological tissue samples, often obtained through a biopsy, to study the manifestations of disease in cells. It allows pathologists to accurately identify cellular changes, diagnose infections, and determine whether a tumor is benign or malignant. This precise laboratory analysis provides the definitive diagnosis needed to plan specific medical and surgical treatments.
