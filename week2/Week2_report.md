@@ -1,3 +1,6 @@
+Following DataSets were explored 
+The code with Brain Tumor MRI dataset is attached.
+
 # Brain Tumor MRI Dataset
 
 ## Source: 
